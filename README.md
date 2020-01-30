@@ -7,3 +7,7 @@
 ## 1/28. Session2
 - Git & Github
 - [EDA](http://bit.ly/2U4ujt4)
+
+## 1/30. Session3
+- 텍스트 마이닝
+- konlpy
