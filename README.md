@@ -10,4 +10,8 @@
 
 ## 1/30. Session3
 - 텍스트 마이닝
-- konlpy
+- KoNLPy
+
+## 2/04. Session4
+- Web Crawling
+- BeautifulSoup
