@@ -19,3 +19,6 @@
 ## 2/06. Session5
 - Google Cloud Platform
 - SQL & BigQuery
+
+## 2/11. Session6
+- Machine Learning Intro
