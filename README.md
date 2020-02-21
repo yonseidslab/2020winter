@@ -22,3 +22,7 @@
 
 ## 2/11. Session6
 - Machine Learning Intro
+
+## 2/18. project1 presentation
+- project presentation guidelines
+- 6 project presentations
