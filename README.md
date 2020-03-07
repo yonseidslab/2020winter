@@ -26,3 +26,10 @@
 ## 2/18. project1 presentation
 - project presentation guidelines
 - 6 project presentations
+
+## 3/5. Session7
+- Linear Regression
+
+## 3/11. Session8
+- Decision Tree
+- Random Forest
