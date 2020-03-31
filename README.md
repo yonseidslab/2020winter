@@ -16,28 +16,31 @@
 - Web Crawling
 - BeautifulSoup
 
-## 2/06. Session5
+## 02/06. Session5
 - Google Cloud Platform
 - SQL & BigQuery
 
-## 2/11. Session6
+## 02/11. Session6
 - Machine Learning Intro
 
-## 2/18. project1 presentation
+## 02/18. project1 presentation
 - project presentation guidelines
 - 6 project presentations
 
-## 3/5. Session7
+## 03/5. Session7
 - Linear Regression
 
-## 3/11. Session8
+## 03/11. Session8
 - Decision Tree
 - Random Forest
 
-## 3/18. Session9
+## 03/18. Session9
 - Ensemble Method
 - AdaBoost, GradientBoost
 
-## 3/25. Session10
+## 03/25. Session10
 - Ensemble Method
 - Stacking Ensemble
+
+## 04/01. Session11
+- Dimension Reduction
